@@ -35,8 +35,8 @@ Built with **Laravel + MySQL (Backend)** and **React Native (Admin Frontend)**.
 ### Backend (Laravel)
 ```bash
 # Clone project
-git clone https://github.com/your-org/coffee-ko-backend.git
-cd coffee-ko-backend
+git clone https://github.com/ryu-crypto/coffee-ko-api.git
+cd coffee-ko-api
 
 # Install dependencies
 composer install
